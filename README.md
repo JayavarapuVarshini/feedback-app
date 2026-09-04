@@ -6,26 +6,6 @@ The system provides separate dashboards for students and administrators, allowin
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#️-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [User Roles](#-user-roles)
-- [Demo Credentials](#-demo-credentials)
-- [Screenshots](#-screenshots)
-- [How the System Works](#-how-the-system-works)
-- [Data Structure](#-data-structure)
-- [Customization](#-customization)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 ## 🎯 Overview
 
 The **Student Feedback & Evaluation System** is designed to improve communication between students and educational institutions.
